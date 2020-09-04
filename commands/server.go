@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"ctl/common"
+	"github.com/Dreamacro/clash-ctl/common"
 
 	"github.com/jedib0t/go-pretty/v6/table"
 	"github.com/manifoldco/promptui"

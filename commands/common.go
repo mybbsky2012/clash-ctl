@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"time"
 
-	"ctl/common"
+	"github.com/Dreamacro/clash-ctl/common"
 
 	"github.com/jedib0t/go-pretty/v6/progress"
 	"github.com/jedib0t/go-pretty/v6/table"

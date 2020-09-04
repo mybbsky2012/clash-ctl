@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"ctl/commands"
-	"ctl/common"
+	"github.com/Dreamacro/clash-ctl/commands"
+	"github.com/Dreamacro/clash-ctl/common"
 
 	"github.com/c-bata/go-prompt"
 	"github.com/jedib0t/go-pretty/v6/text"
